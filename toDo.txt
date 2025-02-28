@@ -1,0 +1,1 @@
+Add more information to the database. Dont forget to put assets in asset table though
